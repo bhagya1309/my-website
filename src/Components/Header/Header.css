@@ -1,0 +1,40 @@
+.top-container {
+    background-color: #a3d2ca;
+    position: relative;
+    /* padding-top: 10px; */
+}
+h1 {
+    align-items: center;
+    text-align: center;
+    font-size: 5.625rem;
+    color: #4b0082;
+    margin: 5px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 5px olive;
+}
+h3 {
+    font-size: 1.4rem;
+    color: #4b0082;
+    font-weight: normal;
+    font-family: 'Playfair Display', serif;
+
+}
+.toppic{
+    position: relative;
+    left:250px;
+}
+.bottompic{
+    position: relative;
+    right:250px;
+    bottom: -10px;
+}
+/* .toppic {
+    position: relative;
+    left: 300px;
+    top: 40px;
+}
+.bottompic {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+} */

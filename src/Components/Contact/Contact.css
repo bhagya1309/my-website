@@ -1,0 +1,21 @@
+.Contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+h2 {
+    color: #483d8b;
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.4rem;
+    color: #4b0082;
+    font-weight: normal;
+    font-family: 'Playfair Display', serif;
+
+}
+
+p {
+    line-height: 2;
+}
