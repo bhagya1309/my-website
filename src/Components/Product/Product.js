@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../UI/Button/Button";
 import "./Product.css";
 
 function Product({ id, title, description, image, price }) {
@@ -13,8 +14,7 @@ function Product({ id, title, description, image, price }) {
         </p>
       </div>
       <img src={image} alt="display-sample" />
-
-      <button>Add to Basket</button>
+      <Button>Add to Basket</Button>
     </div>
   );
 }

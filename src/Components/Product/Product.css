@@ -17,13 +17,16 @@
     margin-bottom: 15px;
 }
 h5 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
     color: #4b0082;
     font-weight: normal;
     font-family: 'Playfair Display', serif;
 
 }
 p {
+    font-size: 1rem;
+    font-weight: bold;
     line-height: 2;
 }
 .product__price {
@@ -37,7 +40,7 @@ p {
     margin-bottom: 15px;
 }
 
-.product > button {
+/* .product > button {
     background: #11cdd4;
         background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
         background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
@@ -61,6 +64,6 @@ p {
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
-}
+} */
 
 
